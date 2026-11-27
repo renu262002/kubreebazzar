@@ -1,0 +1,6 @@
+{
+  "name": "KubreeBazzar",
+  "description": "KubreeBazzar — Your friendly, colourful online shopping destination for Rice, Grocery, Honey, and Watches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

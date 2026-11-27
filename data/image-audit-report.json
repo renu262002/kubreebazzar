@@ -1,0 +1,2041 @@
+{
+  "generatedAt": "2026-11-27T04:07:12.712Z",
+  "repairedPathsCount": 36,
+  "byCategory": {
+    "Women's Fashion": 15,
+    "Electronics": 33,
+    "Dried Fruits": 10,
+    "Nuts": 6,
+    "Furniture": 23,
+    "Dried Peas": 10,
+    "Pranks & Novelties": 30,
+    "Fitness & Gym": 28,
+    "Sports": 21,
+    "Footwear": 33,
+    "Teenagers": 15
+  },
+  "publicImagesCount": 630,
+  "srcAssetsCount": 160,
+  "uploadsCount": 0,
+  "brokenProductRefs": [],
+  "collectionsWithMissingImages": [
+    {
+      "id": "wf-shawls-stoles-cotton-shawls",
+      "category": "Women's Fashion",
+      "groupName": "Shawls & Stoles",
+      "name": "Cotton Shawls",
+      "slug": "cotton-shawls",
+      "expectedFilename": "shawls-stoles/cotton-shawls.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-shawls-stoles-chiffon-stoles",
+      "category": "Women's Fashion",
+      "groupName": "Shawls & Stoles",
+      "name": "Chiffon Stoles",
+      "slug": "chiffon-stoles",
+      "expectedFilename": "shawls-stoles/chiffon-stoles.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-skirts-midi-skirts",
+      "category": "Women's Fashion",
+      "groupName": "Skirts",
+      "name": "Midi Skirts",
+      "slug": "midi-skirts",
+      "expectedFilename": "skirts/midi-skirts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-skirts-pleated-skirts",
+      "category": "Women's Fashion",
+      "groupName": "Skirts",
+      "name": "Pleated Skirts",
+      "slug": "pleated-skirts",
+      "expectedFilename": "skirts/pleated-skirts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-skirts-denim-skirts",
+      "category": "Women's Fashion",
+      "groupName": "Skirts",
+      "name": "Denim Skirts",
+      "slug": "denim-skirts",
+      "expectedFilename": "skirts/denim-skirts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-nightwear-sets-cotton-pyjama-sets",
+      "category": "Women's Fashion",
+      "groupName": "Nightwear Sets",
+      "name": "Cotton Pyjama Sets",
+      "slug": "cotton-pyjama-sets",
+      "expectedFilename": "nightwear-sets/cotton-pyjama-sets.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-nightwear-sets-satin-nightwear-sets",
+      "category": "Women's Fashion",
+      "groupName": "Nightwear Sets",
+      "name": "Satin Nightwear Sets",
+      "slug": "satin-nightwear-sets",
+      "expectedFilename": "nightwear-sets/satin-nightwear-sets.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-nightwear-sets-nightgowns",
+      "category": "Women's Fashion",
+      "groupName": "Nightwear Sets",
+      "name": "Nightgowns",
+      "slug": "nightgowns",
+      "expectedFilename": "nightwear-sets/nightgowns.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-nightwear-sets-lounge-sets",
+      "category": "Women's Fashion",
+      "groupName": "Nightwear Sets",
+      "name": "Lounge Sets",
+      "slug": "lounge-sets",
+      "expectedFilename": "nightwear-sets/lounge-sets.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-long-coats-overcoats",
+      "category": "Women's Fashion",
+      "groupName": "Long Coats",
+      "name": "Overcoats",
+      "slug": "overcoats",
+      "expectedFilename": "long-coats/overcoats.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-long-coats-winter-coats",
+      "category": "Women's Fashion",
+      "groupName": "Long Coats",
+      "name": "Winter Coats",
+      "slug": "winter-coats",
+      "expectedFilename": "long-coats/winter-coats.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-track-pants-slim-fit-track-pants",
+      "category": "Women's Fashion",
+      "groupName": "Track Pants",
+      "name": "Slim Fit Track Pants",
+      "slug": "slim-fit-track-pants",
+      "expectedFilename": "track-pants/slim-fit-track-pants.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-track-pants-jogger-track-pants",
+      "category": "Women's Fashion",
+      "groupName": "Track Pants",
+      "name": "Jogger Track Pants",
+      "slug": "jogger-track-pants",
+      "expectedFilename": "track-pants/jogger-track-pants.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-track-pants-wide-leg-track-pants",
+      "category": "Women's Fashion",
+      "groupName": "Track Pants",
+      "name": "Wide-Leg Track Pants",
+      "slug": "wide-leg-track-pants",
+      "expectedFilename": "track-pants/wide-leg-track-pants.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "wf-t-shirts-crop-tshirts",
+      "category": "Women's Fashion",
+      "groupName": "T-Shirts",
+      "name": "Crop T-Shirts",
+      "slug": "crop-tshirts",
+      "expectedFilename": "tshirts/crop-tshirts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-feature-phones",
+      "category": "Electronics",
+      "groupName": "Smartphones & Tablets",
+      "name": "Feature Phones",
+      "slug": "feature-phones",
+      "expectedFilename": "smartphones-tablets/feature-phones.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-gaming-headsets",
+      "category": "Electronics",
+      "groupName": "Audio Devices",
+      "name": "Gaming Headsets",
+      "slug": "gaming-headsets",
+      "expectedFilename": "audio-devices/gaming-headsets.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-soundbars",
+      "category": "Electronics",
+      "groupName": "Audio Devices",
+      "name": "Soundbars",
+      "slug": "soundbars",
+      "expectedFilename": "audio-devices/soundbars.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-fitness-bands",
+      "category": "Electronics",
+      "groupName": "Smartwatches & Wearables",
+      "name": "Fitness Bands",
+      "slug": "fitness-bands",
+      "expectedFilename": "wearables/fitness-bands.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-kids-smartwatches",
+      "category": "Electronics",
+      "groupName": "Smartwatches & Wearables",
+      "name": "Kids' Smartwatches",
+      "slug": "kids-smartwatches",
+      "expectedFilename": "wearables/kids-smartwatches.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-wireless-chargers",
+      "category": "Electronics",
+      "groupName": "Charging & Power",
+      "name": "Wireless Chargers",
+      "slug": "wireless-chargers",
+      "expectedFilename": "charging-power/wireless-chargers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-charging-cables",
+      "category": "Electronics",
+      "groupName": "Charging & Power",
+      "name": "Charging Cables",
+      "slug": "charging-cables",
+      "expectedFilename": "charging-power/charging-cables.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-car-chargers",
+      "category": "Electronics",
+      "groupName": "Charging & Power",
+      "name": "Car Chargers",
+      "slug": "car-chargers",
+      "expectedFilename": "charging-power/car-chargers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-wireless-mice",
+      "category": "Electronics",
+      "groupName": "Computer Accessories",
+      "name": "Wireless Mice",
+      "slug": "wireless-mice",
+      "expectedFilename": "computer-accessories/wireless-mice.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-gaming-mice",
+      "category": "Electronics",
+      "groupName": "Computer Accessories",
+      "name": "Gaming Mice",
+      "slug": "gaming-mice",
+      "expectedFilename": "computer-accessories/gaming-mice.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-webcams",
+      "category": "Electronics",
+      "groupName": "Computer Accessories",
+      "name": "Webcams",
+      "slug": "webcams",
+      "expectedFilename": "computer-accessories/webcams.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-laptop-stands",
+      "category": "Electronics",
+      "groupName": "Computer Accessories",
+      "name": "Laptop Stands",
+      "slug": "laptop-stands",
+      "expectedFilename": "computer-accessories/laptop-stands.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-usb-flash-drives",
+      "category": "Electronics",
+      "groupName": "Storage Devices",
+      "name": "USB Flash Drives",
+      "slug": "usb-flash-drives",
+      "expectedFilename": "storage-devices/usb-flash-drives.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-external-hard-drives",
+      "category": "Electronics",
+      "groupName": "Storage Devices",
+      "name": "External Hard Drives",
+      "slug": "external-hard-drives",
+      "expectedFilename": "storage-devices/external-hard-drives.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-external-ssds",
+      "category": "Electronics",
+      "groupName": "Storage Devices",
+      "name": "External SSDs",
+      "slug": "external-ssds",
+      "expectedFilename": "storage-devices/external-ssds.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-memory-cards",
+      "category": "Electronics",
+      "groupName": "Storage Devices",
+      "name": "Memory Cards",
+      "slug": "memory-cards",
+      "expectedFilename": "storage-devices/memory-cards.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-screen-protectors",
+      "category": "Electronics",
+      "groupName": "Mobile Accessories",
+      "name": "Screen Protectors",
+      "slug": "screen-protectors",
+      "expectedFilename": "mobile-accessories/screen-protectors.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-phone-holders",
+      "category": "Electronics",
+      "groupName": "Mobile Accessories",
+      "name": "Phone Holders",
+      "slug": "phone-holders",
+      "expectedFilename": "mobile-accessories/phone-holders.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-selfie-sticks",
+      "category": "Electronics",
+      "groupName": "Mobile Accessories",
+      "name": "Selfie Sticks",
+      "slug": "selfie-sticks",
+      "expectedFilename": "mobile-accessories/selfie-sticks.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-mobile-tripods",
+      "category": "Electronics",
+      "groupName": "Mobile Accessories",
+      "name": "Mobile Tripods",
+      "slug": "mobile-tripods",
+      "expectedFilename": "mobile-accessories/mobile-tripods.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-gaming-controllers",
+      "category": "Electronics",
+      "groupName": "Gaming Accessories",
+      "name": "Gaming Controllers",
+      "slug": "gaming-controllers",
+      "expectedFilename": "gaming-accessories/gaming-controllers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-gaming-keyboards",
+      "category": "Electronics",
+      "groupName": "Gaming Accessories",
+      "name": "Gaming Keyboards",
+      "slug": "gaming-keyboards",
+      "expectedFilename": "gaming-accessories/gaming-keyboards.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-gaming-mouse-pads",
+      "category": "Electronics",
+      "groupName": "Gaming Accessories",
+      "name": "Gaming Mouse Pads",
+      "slug": "gaming-mouse-pads",
+      "expectedFilename": "gaming-accessories/gaming-mouse-pads.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-gaming-accessories",
+      "category": "Electronics",
+      "groupName": "Gaming Accessories",
+      "name": "Gaming Accessories",
+      "slug": "gaming-accessories",
+      "expectedFilename": "gaming-accessories/gaming-accessories.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-digital-cameras",
+      "category": "Electronics",
+      "groupName": "Cameras & Accessories",
+      "name": "Digital Cameras",
+      "slug": "digital-cameras",
+      "expectedFilename": "cameras-accessories/digital-cameras.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-action-cameras",
+      "category": "Electronics",
+      "groupName": "Cameras & Accessories",
+      "name": "Action Cameras",
+      "slug": "action-cameras",
+      "expectedFilename": "cameras-accessories/action-cameras.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-security-cameras",
+      "category": "Electronics",
+      "groupName": "Cameras & Accessories",
+      "name": "Security Cameras",
+      "slug": "security-cameras",
+      "expectedFilename": "cameras-accessories/security-cameras.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-camera-tripods",
+      "category": "Electronics",
+      "groupName": "Cameras & Accessories",
+      "name": "Camera Tripods",
+      "slug": "camera-tripods",
+      "expectedFilename": "cameras-accessories/camera-tripods.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-smart-bulbs",
+      "category": "Electronics",
+      "groupName": "Home Electronics",
+      "name": "Smart Bulbs",
+      "slug": "smart-bulbs",
+      "expectedFilename": "home-electronics/smart-bulbs.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-led-lights",
+      "category": "Electronics",
+      "groupName": "Home Electronics",
+      "name": "LED Lights",
+      "slug": "led-lights",
+      "expectedFilename": "home-electronics/led-lights.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-extension-boards",
+      "category": "Electronics",
+      "groupName": "Home Electronics",
+      "name": "Extension Boards",
+      "slug": "extension-boards",
+      "expectedFilename": "home-electronics/extension-boards.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-smart-plugs",
+      "category": "Electronics",
+      "groupName": "Home Electronics",
+      "name": "Smart Plugs",
+      "slug": "smart-plugs",
+      "expectedFilename": "home-electronics/smart-plugs.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "el-wifi-routers",
+      "category": "Electronics",
+      "groupName": "Home Electronics",
+      "name": "Wi-Fi Routers",
+      "slug": "wifi-routers",
+      "expectedFilename": "home-electronics/wifi-routers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-prunes",
+      "category": "Dried Fruits",
+      "groupName": "Classic Sun-Dried",
+      "name": "Prunes",
+      "slug": "prunes",
+      "expectedFilename": "prunes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-blueberries",
+      "category": "Dried Fruits",
+      "groupName": "Berries & Cherries",
+      "name": "Dried Blueberries",
+      "slug": "dried-blueberries",
+      "expectedFilename": "dried-blueberries.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-cherries",
+      "category": "Dried Fruits",
+      "groupName": "Berries & Cherries",
+      "name": "Dried Cherries",
+      "slug": "dried-cherries",
+      "expectedFilename": "dried-cherries.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-mango",
+      "category": "Dried Fruits",
+      "groupName": "Tropical & Orchard",
+      "name": "Dried Mango",
+      "slug": "dried-mango",
+      "expectedFilename": "dried-mango.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-pineapple",
+      "category": "Dried Fruits",
+      "groupName": "Tropical & Orchard",
+      "name": "Dried Pineapple",
+      "slug": "dried-pineapple",
+      "expectedFilename": "dried-pineapple.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-papaya",
+      "category": "Dried Fruits",
+      "groupName": "Tropical & Orchard",
+      "name": "Dried Papaya",
+      "slug": "dried-papaya",
+      "expectedFilename": "dried-papaya.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-kiwi",
+      "category": "Dried Fruits",
+      "groupName": "Tropical & Orchard",
+      "name": "Dried Kiwi",
+      "slug": "dried-kiwi",
+      "expectedFilename": "dried-kiwi.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-strawberries",
+      "category": "Dried Fruits",
+      "groupName": "Berries & Cherries",
+      "name": "Dried Strawberries",
+      "slug": "dried-strawberries",
+      "expectedFilename": "dried-strawberries.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-coconut",
+      "category": "Dried Fruits",
+      "groupName": "Tropical & Orchard",
+      "name": "Dried Coconut",
+      "slug": "dried-coconut",
+      "expectedFilename": "dried-coconut.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "df-dried-apple",
+      "category": "Dried Fruits",
+      "groupName": "Tropical & Orchard",
+      "name": "Dried Apple",
+      "slug": "dried-apple",
+      "expectedFilename": "dried-apple.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "nut-hazelnuts",
+      "category": "Nuts",
+      "groupName": "Classic Tree Nuts",
+      "name": "Hazelnuts",
+      "slug": "hazelnuts",
+      "expectedFilename": "hazelnuts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "nut-macadamia-nuts",
+      "category": "Nuts",
+      "groupName": "Gourmet & Specialty",
+      "name": "Macadamia Nuts",
+      "slug": "macadamia-nuts",
+      "expectedFilename": "macadamia-nuts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "nut-brazil-nuts",
+      "category": "Nuts",
+      "groupName": "Gourmet & Specialty",
+      "name": "Brazil Nuts",
+      "slug": "brazil-nuts",
+      "expectedFilename": "brazil-nuts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "nut-black-walnuts",
+      "category": "Nuts",
+      "groupName": "Gourmet & Specialty",
+      "name": "Black Walnuts",
+      "slug": "black-walnuts",
+      "expectedFilename": "black-walnuts.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "nut-marcona-almonds",
+      "category": "Nuts",
+      "groupName": "Gourmet & Specialty",
+      "name": "Marcona Almonds",
+      "slug": "marcona-almonds",
+      "expectedFilename": "marcona-almonds.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "nut-roasted-cashews",
+      "category": "Nuts",
+      "groupName": "Groundnuts & Roasted",
+      "name": "Roasted Cashews",
+      "slug": "roasted-cashews",
+      "expectedFilename": "roasted-cashews.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-l-shaped-sofa",
+      "category": "Furniture",
+      "groupName": "Sofas & Seating",
+      "name": "L-Shaped Sofa",
+      "slug": "l-shaped-sofa",
+      "expectedFilename": "sofas-seating/l-shaped-sofa.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-recliner-sofa",
+      "category": "Furniture",
+      "groupName": "Sofas & Seating",
+      "name": "Recliner Sofa",
+      "slug": "recliner-sofa",
+      "expectedFilename": "sofas-seating/recliner-sofa.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-sofa-cum-bed",
+      "category": "Furniture",
+      "groupName": "Sofas & Seating",
+      "name": "Sofa Cum Bed",
+      "slug": "sofa-cum-bed",
+      "expectedFilename": "sofas-seating/sofa-cum-bed.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-single-bed",
+      "category": "Furniture",
+      "groupName": "Beds & Mattresses",
+      "name": "Single Bed",
+      "slug": "single-bed",
+      "expectedFilename": "beds-mattresses/single-bed.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-double-bed",
+      "category": "Furniture",
+      "groupName": "Beds & Mattresses",
+      "name": "Double Bed",
+      "slug": "double-bed",
+      "expectedFilename": "beds-mattresses/double-bed.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-king-size-bed",
+      "category": "Furniture",
+      "groupName": "Beds & Mattresses",
+      "name": "King Size Bed",
+      "slug": "king-size-bed",
+      "expectedFilename": "beds-mattresses/king-size-bed.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-mattress",
+      "category": "Furniture",
+      "groupName": "Beds & Mattresses",
+      "name": "Mattress",
+      "slug": "mattress",
+      "expectedFilename": "beds-mattresses/mattress.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-four-seater-dining-table",
+      "category": "Furniture",
+      "groupName": "Dining Furniture",
+      "name": "4-Seater Dining Table",
+      "slug": "four-seater-dining-table",
+      "expectedFilename": "dining-furniture/four-seater-dining-table.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-six-seater-dining-table",
+      "category": "Furniture",
+      "groupName": "Dining Furniture",
+      "name": "6-Seater Dining Table",
+      "slug": "six-seater-dining-table",
+      "expectedFilename": "dining-furniture/six-seater-dining-table.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-dining-chair",
+      "category": "Furniture",
+      "groupName": "Dining Furniture",
+      "name": "Dining Chair",
+      "slug": "dining-chair",
+      "expectedFilename": "dining-furniture/dining-chair.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-dining-bench",
+      "category": "Furniture",
+      "groupName": "Dining Furniture",
+      "name": "Dining Bench",
+      "slug": "dining-bench",
+      "expectedFilename": "dining-furniture/dining-bench.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-coffee-table",
+      "category": "Furniture",
+      "groupName": "Tables & Desks",
+      "name": "Coffee Table",
+      "slug": "coffee-table",
+      "expectedFilename": "tables-desks/coffee-table.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-study-table",
+      "category": "Furniture",
+      "groupName": "Tables & Desks",
+      "name": "Study Table",
+      "slug": "study-table",
+      "expectedFilename": "tables-desks/study-table.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-computer-desk",
+      "category": "Furniture",
+      "groupName": "Tables & Desks",
+      "name": "Computer Desk",
+      "slug": "computer-desk",
+      "expectedFilename": "tables-desks/computer-desk.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-office-desk",
+      "category": "Furniture",
+      "groupName": "Tables & Desks",
+      "name": "Office Desk",
+      "slug": "office-desk",
+      "expectedFilename": "tables-desks/office-desk.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-storage-cabinet",
+      "category": "Furniture",
+      "groupName": "Storage Furniture",
+      "name": "Storage Cabinet",
+      "slug": "storage-cabinet",
+      "expectedFilename": "storage-furniture/storage-cabinet.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-chest-of-drawers",
+      "category": "Furniture",
+      "groupName": "Storage Furniture",
+      "name": "Chest of Drawers",
+      "slug": "chest-of-drawers",
+      "expectedFilename": "storage-furniture/chest-of-drawers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-office-chair",
+      "category": "Furniture",
+      "groupName": "Chairs",
+      "name": "Office Chair",
+      "slug": "office-chair",
+      "expectedFilename": "chairs/office-chair.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-gaming-chair",
+      "category": "Furniture",
+      "groupName": "Chairs",
+      "name": "Gaming Chair",
+      "slug": "gaming-chair",
+      "expectedFilename": "chairs/gaming-chair.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-accent-chair",
+      "category": "Furniture",
+      "groupName": "Chairs",
+      "name": "Accent Chair",
+      "slug": "accent-chair",
+      "expectedFilename": "chairs/accent-chair.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-plastic-chair",
+      "category": "Furniture",
+      "groupName": "Chairs",
+      "name": "Plastic Chair",
+      "slug": "plastic-chair",
+      "expectedFilename": "chairs/plastic-chair.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-tv-unit",
+      "category": "Furniture",
+      "groupName": "Home Furniture",
+      "name": "TV Unit",
+      "slug": "tv-unit",
+      "expectedFilename": "home-furniture/tv-unit.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "furn-dressing-table",
+      "category": "Furniture",
+      "groupName": "Home Furniture",
+      "name": "Dressing Table",
+      "slug": "dressing-table",
+      "expectedFilename": "home-furniture/dressing-table.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-dried-chickpeas",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Dried Chickpeas",
+      "slug": "dried-chickpeas",
+      "expectedFilename": "pulses-legumes/dried-chickpeas.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-black-chickpeas",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Black Chickpeas",
+      "slug": "black-chickpeas",
+      "expectedFilename": "pulses-legumes/black-chickpeas.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-green-gram",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Green Gram",
+      "slug": "green-gram",
+      "expectedFilename": "pulses-legumes/green-gram.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-black-gram",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Black Gram",
+      "slug": "black-gram",
+      "expectedFilename": "pulses-legumes/black-gram.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-cowpeas",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Cowpeas",
+      "slug": "cowpeas",
+      "expectedFilename": "pulses-legumes/cowpeas.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-red-kidney-beans",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Red Kidney Beans",
+      "slug": "red-kidney-beans",
+      "expectedFilename": "pulses-legumes/red-kidney-beans.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-white-kidney-beans",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "White Kidney Beans",
+      "slug": "white-kidney-beans",
+      "expectedFilename": "pulses-legumes/white-kidney-beans.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-field-beans",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Field Beans",
+      "slug": "field-beans",
+      "expectedFilename": "pulses-legumes/field-beans.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-moth-beans",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Moth Beans",
+      "slug": "moth-beans",
+      "expectedFilename": "pulses-legumes/moth-beans.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "dp-col-horse-gram",
+      "category": "Dried Peas",
+      "groupName": "Related Dried Pulses & Legumes",
+      "name": "Horse Gram",
+      "slug": "horse-gram",
+      "expectedFilename": "pulses-legumes/horse-gram.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-whoopee-cushion",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Prank Toys",
+      "name": "Whoopee Cushion",
+      "slug": "whoopee-cushion",
+      "expectedFilename": "funny-prank-toys/whoopee-cushion.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-fake-cockroach",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Prank Toys",
+      "name": "Fake Cockroach",
+      "slug": "fake-cockroach",
+      "expectedFilename": "funny-prank-toys/fake-cockroach.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-fake-spider",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Prank Toys",
+      "name": "Fake Spider",
+      "slug": "fake-spider",
+      "expectedFilename": "funny-prank-toys/fake-spider.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-fake-snake",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Prank Toys",
+      "name": "Fake Snake",
+      "slug": "fake-snake",
+      "expectedFilename": "funny-prank-toys/fake-snake.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-jumping-surprise-box",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Prank Toys",
+      "name": "Jumping Surprise Box",
+      "slug": "jumping-surprise-box",
+      "expectedFilename": "funny-prank-toys/jumping-surprise-box.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-magic-trick-kit",
+      "category": "Pranks & Novelties",
+      "groupName": "Magic & Trick Toys",
+      "name": "Magic Trick Kit",
+      "slug": "magic-trick-kit",
+      "expectedFilename": "magic-trick-toys/magic-trick-kit.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-disappearing-coin-trick",
+      "category": "Pranks & Novelties",
+      "groupName": "Magic & Trick Toys",
+      "name": "Disappearing Coin Trick",
+      "slug": "disappearing-coin-trick",
+      "expectedFilename": "magic-trick-toys/disappearing-coin-trick.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-magic-wand",
+      "category": "Pranks & Novelties",
+      "groupName": "Magic & Trick Toys",
+      "name": "Magic Wand",
+      "slug": "magic-wand",
+      "expectedFilename": "magic-trick-toys/magic-wand.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-trick-cards",
+      "category": "Pranks & Novelties",
+      "groupName": "Magic & Trick Toys",
+      "name": "Trick Cards",
+      "slug": "trick-cards",
+      "expectedFilename": "magic-trick-toys/trick-cards.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-voice-changer-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Gadgets",
+      "name": "Voice Changer Toy",
+      "slug": "voice-changer-toy",
+      "expectedFilename": "funny-gadgets/voice-changer-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-funny-sound-machine",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Gadgets",
+      "name": "Funny Sound Machine",
+      "slug": "funny-sound-machine",
+      "expectedFilename": "funny-gadgets/funny-sound-machine.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-dancing-cactus-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Gadgets",
+      "name": "Dancing Cactus Toy",
+      "slug": "dancing-cactus-toy",
+      "expectedFilename": "funny-gadgets/dancing-cactus-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-mini-talking-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Funny Gadgets",
+      "name": "Mini Talking Toy",
+      "slug": "mini-talking-toy",
+      "expectedFilename": "funny-gadgets/mini-talking-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-funny-coffee-mug",
+      "category": "Pranks & Novelties",
+      "groupName": "Novelty Gifts",
+      "name": "Funny Coffee Mug",
+      "slug": "funny-coffee-mug",
+      "expectedFilename": "novelty-gifts/funny-coffee-mug.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-mini-desktop-punching-bag",
+      "category": "Pranks & Novelties",
+      "groupName": "Novelty Gifts",
+      "name": "Mini Desktop Punching Bag",
+      "slug": "mini-desktop-punching-bag",
+      "expectedFilename": "novelty-gifts/mini-desktop-punching-bag.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-novelty-keychain",
+      "category": "Pranks & Novelties",
+      "groupName": "Novelty Gifts",
+      "name": "Novelty Keychain",
+      "slug": "novelty-keychain",
+      "expectedFilename": "novelty-gifts/novelty-keychain.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-funny-desk-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Novelty Gifts",
+      "name": "Funny Desk Toy",
+      "slug": "funny-desk-toy",
+      "expectedFilename": "novelty-gifts/funny-desk-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-confetti-popper",
+      "category": "Pranks & Novelties",
+      "groupName": "Party Pranks",
+      "name": "Confetti Popper",
+      "slug": "confetti-popper",
+      "expectedFilename": "party-pranks/confetti-popper.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-silly-party-glasses",
+      "category": "Pranks & Novelties",
+      "groupName": "Party Pranks",
+      "name": "Silly Party Glasses",
+      "slug": "silly-party-glasses",
+      "expectedFilename": "party-pranks/silly-party-glasses.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-funny-party-masks",
+      "category": "Pranks & Novelties",
+      "groupName": "Party Pranks",
+      "name": "Funny Party Masks",
+      "slug": "funny-party-masks",
+      "expectedFilename": "party-pranks/funny-party-masks.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-inflatable-costume",
+      "category": "Pranks & Novelties",
+      "groupName": "Party Pranks",
+      "name": "Inflatable Costume",
+      "slug": "inflatable-costume",
+      "expectedFilename": "party-pranks/inflatable-costume.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-pop-it-fidget-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Stress Relief & Fidget Toys",
+      "name": "Pop It Fidget Toy",
+      "slug": "pop-it-fidget-toy",
+      "expectedFilename": "fidget-toys/pop-it-fidget-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-squishy-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Stress Relief & Fidget Toys",
+      "name": "Squishy Toy",
+      "slug": "squishy-toy",
+      "expectedFilename": "fidget-toys/squishy-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-fidget-spinner",
+      "category": "Pranks & Novelties",
+      "groupName": "Stress Relief & Fidget Toys",
+      "name": "Fidget Spinner",
+      "slug": "fidget-spinner",
+      "expectedFilename": "fidget-toys/fidget-spinner.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-stress-ball",
+      "category": "Pranks & Novelties",
+      "groupName": "Stress Relief & Fidget Toys",
+      "name": "Stress Ball",
+      "slug": "stress-ball",
+      "expectedFilename": "fidget-toys/stress-ball.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-magnetic-fidget-toy",
+      "category": "Pranks & Novelties",
+      "groupName": "Stress Relief & Fidget Toys",
+      "name": "Magnetic Fidget Toy",
+      "slug": "magnetic-fidget-toy",
+      "expectedFilename": "fidget-toys/magnetic-fidget-toy.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-led-neon-sign",
+      "category": "Pranks & Novelties",
+      "groupName": "Fun Room Decor",
+      "name": "LED Neon Sign",
+      "slug": "led-neon-sign",
+      "expectedFilename": "fun-room-decor/led-neon-sign.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-mini-lava-lamp",
+      "category": "Pranks & Novelties",
+      "groupName": "Fun Room Decor",
+      "name": "Mini Lava Lamp",
+      "slug": "mini-lava-lamp",
+      "expectedFilename": "fun-room-decor/mini-lava-lamp.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-plasma-ball-lamp",
+      "category": "Pranks & Novelties",
+      "groupName": "Fun Room Decor",
+      "name": "Plasma Ball Lamp",
+      "slug": "plasma-ball-lamp",
+      "expectedFilename": "fun-room-decor/plasma-ball-lamp.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "pn-col-novelty-night-light",
+      "category": "Pranks & Novelties",
+      "groupName": "Fun Room Decor",
+      "name": "Novelty Night Light",
+      "slug": "novelty-night-light",
+      "expectedFilename": "fun-room-decor/novelty-night-light.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-barbells",
+      "category": "Fitness & Gym",
+      "groupName": "Dumbbells & Weights",
+      "name": "Barbells",
+      "slug": "barbells",
+      "expectedFilename": "dumbbells-weights/barbells.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-weight-plates",
+      "category": "Fitness & Gym",
+      "groupName": "Dumbbells & Weights",
+      "name": "Weight Plates",
+      "slug": "weight-plates",
+      "expectedFilename": "dumbbells-weights/weight-plates.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-home-gym-machine",
+      "category": "Fitness & Gym",
+      "groupName": "Home Gym Equipment",
+      "name": "Home Gym Machine",
+      "slug": "home-gym-machine",
+      "expectedFilename": "home-gym-equipment/home-gym-machine.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-weight-bench",
+      "category": "Fitness & Gym",
+      "groupName": "Home Gym Equipment",
+      "name": "Weight Bench",
+      "slug": "weight-bench",
+      "expectedFilename": "home-gym-equipment/weight-bench.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-squat-rack",
+      "category": "Fitness & Gym",
+      "groupName": "Home Gym Equipment",
+      "name": "Squat Rack",
+      "slug": "squat-rack",
+      "expectedFilename": "home-gym-equipment/squat-rack.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-pull-up-bar",
+      "category": "Fitness & Gym",
+      "groupName": "Home Gym Equipment",
+      "name": "Pull-Up Bar",
+      "slug": "pull-up-bar",
+      "expectedFilename": "home-gym-equipment/pull-up-bar.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-dip-station",
+      "category": "Fitness & Gym",
+      "groupName": "Home Gym Equipment",
+      "name": "Dip Station",
+      "slug": "dip-station",
+      "expectedFilename": "home-gym-equipment/dip-station.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-treadmill",
+      "category": "Fitness & Gym",
+      "groupName": "Cardio Equipment",
+      "name": "Treadmill",
+      "slug": "treadmill",
+      "expectedFilename": "cardio-equipment/treadmill.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-exercise-bike",
+      "category": "Fitness & Gym",
+      "groupName": "Cardio Equipment",
+      "name": "Exercise Bike",
+      "slug": "exercise-bike",
+      "expectedFilename": "cardio-equipment/exercise-bike.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-elliptical-trainer",
+      "category": "Fitness & Gym",
+      "groupName": "Cardio Equipment",
+      "name": "Elliptical Trainer",
+      "slug": "elliptical-trainer",
+      "expectedFilename": "cardio-equipment/elliptical-trainer.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-rowing-machine",
+      "category": "Fitness & Gym",
+      "groupName": "Cardio Equipment",
+      "name": "Rowing Machine",
+      "slug": "rowing-machine",
+      "expectedFilename": "cardio-equipment/rowing-machine.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-mini-stepper",
+      "category": "Fitness & Gym",
+      "groupName": "Cardio Equipment",
+      "name": "Mini Stepper",
+      "slug": "mini-stepper",
+      "expectedFilename": "cardio-equipment/mini-stepper.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-jump-rope",
+      "category": "Fitness & Gym",
+      "groupName": "Fitness Accessories",
+      "name": "Jump Rope",
+      "slug": "jump-rope",
+      "expectedFilename": "fitness-accessories/jump-rope.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-ab-roller",
+      "category": "Fitness & Gym",
+      "groupName": "Fitness Accessories",
+      "name": "Ab Roller",
+      "slug": "ab-roller",
+      "expectedFilename": "fitness-accessories/ab-roller.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-push-up-bars",
+      "category": "Fitness & Gym",
+      "groupName": "Fitness Accessories",
+      "name": "Push-Up Bars",
+      "slug": "push-up-bars",
+      "expectedFilename": "fitness-accessories/push-up-bars.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-hand-gripper",
+      "category": "Fitness & Gym",
+      "groupName": "Fitness Accessories",
+      "name": "Hand Gripper",
+      "slug": "hand-gripper",
+      "expectedFilename": "fitness-accessories/hand-gripper.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-yoga-blocks",
+      "category": "Fitness & Gym",
+      "groupName": "Yoga & Pilates",
+      "name": "Yoga Blocks",
+      "slug": "yoga-blocks",
+      "expectedFilename": "yoga-pilates/yoga-blocks.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-yoga-strap",
+      "category": "Fitness & Gym",
+      "groupName": "Yoga & Pilates",
+      "name": "Yoga Strap",
+      "slug": "yoga-strap",
+      "expectedFilename": "yoga-pilates/yoga-strap.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-pilates-ring",
+      "category": "Fitness & Gym",
+      "groupName": "Yoga & Pilates",
+      "name": "Pilates Ring",
+      "slug": "pilates-ring",
+      "expectedFilename": "yoga-pilates/pilates-ring.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-foam-roller",
+      "category": "Fitness & Gym",
+      "groupName": "Yoga & Pilates",
+      "name": "Foam Roller",
+      "slug": "foam-roller",
+      "expectedFilename": "yoga-pilates/foam-roller.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-lifting-belt",
+      "category": "Fitness & Gym",
+      "groupName": "Gym Accessories",
+      "name": "Lifting Belt",
+      "slug": "lifting-belt",
+      "expectedFilename": "gym-accessories/lifting-belt.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-wrist-wraps",
+      "category": "Fitness & Gym",
+      "groupName": "Gym Accessories",
+      "name": "Wrist Wraps",
+      "slug": "wrist-wraps",
+      "expectedFilename": "gym-accessories/wrist-wraps.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-knee-sleeves",
+      "category": "Fitness & Gym",
+      "groupName": "Gym Accessories",
+      "name": "Knee Sleeves",
+      "slug": "knee-sleeves",
+      "expectedFilename": "gym-accessories/knee-sleeves.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-massage-gun",
+      "category": "Fitness & Gym",
+      "groupName": "Recovery & Mobility",
+      "name": "Massage Gun",
+      "slug": "massage-gun",
+      "expectedFilename": "recovery-mobility/massage-gun.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-massage-ball",
+      "category": "Fitness & Gym",
+      "groupName": "Recovery & Mobility",
+      "name": "Massage Ball",
+      "slug": "massage-ball",
+      "expectedFilename": "recovery-mobility/massage-ball.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-stretching-strap",
+      "category": "Fitness & Gym",
+      "groupName": "Recovery & Mobility",
+      "name": "Stretching Strap",
+      "slug": "stretching-strap",
+      "expectedFilename": "recovery-mobility/stretching-strap.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-balance-board",
+      "category": "Fitness & Gym",
+      "groupName": "Recovery & Mobility",
+      "name": "Balance Board",
+      "slug": "balance-board",
+      "expectedFilename": "recovery-mobility/balance-board.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "fg-col-acupressure-mat",
+      "category": "Fitness & Gym",
+      "groupName": "Recovery & Mobility",
+      "name": "Acupressure Mat",
+      "slug": "acupressure-mat",
+      "expectedFilename": "recovery-mobility/acupressure-mat.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-tennis-tennis-grip-tape",
+      "category": "Sports",
+      "groupName": "Tennis",
+      "name": "Tennis Grip Tape",
+      "slug": "tennis-grip-tape",
+      "expectedFilename": "tennis/tennis-grip-tape.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-volleyball-volleyball",
+      "category": "Sports",
+      "groupName": "Volleyball",
+      "name": "Volleyball",
+      "slug": "volleyball",
+      "expectedFilename": "volleyball/volleyball.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-volleyball-volleyball-net",
+      "category": "Sports",
+      "groupName": "Volleyball",
+      "name": "Volleyball Net",
+      "slug": "volleyball-net",
+      "expectedFilename": "volleyball/volleyball-net.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-volleyball-volleyball-knee-pads",
+      "category": "Sports",
+      "groupName": "Volleyball",
+      "name": "Volleyball Knee Pads",
+      "slug": "volleyball-knee-pads",
+      "expectedFilename": "volleyball/volleyball-knee-pads.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-basketball-basketball",
+      "category": "Sports",
+      "groupName": "Basketball",
+      "name": "Basketball",
+      "slug": "basketball",
+      "expectedFilename": "basketball/basketball.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-basketball-basketball-hoop",
+      "category": "Sports",
+      "groupName": "Basketball",
+      "name": "Basketball Hoop",
+      "slug": "basketball-hoop",
+      "expectedFilename": "basketball/basketball-hoop.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-basketball-basketball-net",
+      "category": "Sports",
+      "groupName": "Basketball",
+      "name": "Basketball Net",
+      "slug": "basketball-net",
+      "expectedFilename": "basketball/basketball-net.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-table-tennis-table-tennis-bat",
+      "category": "Sports",
+      "groupName": "Table Tennis",
+      "name": "Table Tennis Bat",
+      "slug": "table-tennis-bat",
+      "expectedFilename": "table-tennis/table-tennis-bat.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-table-tennis-table-tennis-balls",
+      "category": "Sports",
+      "groupName": "Table Tennis",
+      "name": "Table Tennis Balls",
+      "slug": "table-tennis-balls",
+      "expectedFilename": "table-tennis/table-tennis-balls.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-table-tennis-table-tennis-net",
+      "category": "Sports",
+      "groupName": "Table Tennis",
+      "name": "Table Tennis Net",
+      "slug": "table-tennis-net",
+      "expectedFilename": "table-tennis/table-tennis-net.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-swimming-swimming-goggles",
+      "category": "Sports",
+      "groupName": "Swimming",
+      "name": "Swimming Goggles",
+      "slug": "swimming-goggles",
+      "expectedFilename": "swimming/swimming-goggles.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-swimming-swimming-cap",
+      "category": "Sports",
+      "groupName": "Swimming",
+      "name": "Swimming Cap",
+      "slug": "swimming-cap",
+      "expectedFilename": "swimming/swimming-cap.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-swimming-kickboard",
+      "category": "Sports",
+      "groupName": "Swimming",
+      "name": "Kickboard",
+      "slug": "kickboard",
+      "expectedFilename": "swimming/kickboard.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-swimming-swimming-fins",
+      "category": "Sports",
+      "groupName": "Swimming",
+      "name": "Swimming Fins",
+      "slug": "swimming-fins",
+      "expectedFilename": "swimming/swimming-fins.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-cycling-bicycle-helmet",
+      "category": "Sports",
+      "groupName": "Cycling",
+      "name": "Bicycle Helmet",
+      "slug": "bicycle-helmet",
+      "expectedFilename": "cycling/bicycle-helmet.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-cycling-cycling-gloves",
+      "category": "Sports",
+      "groupName": "Cycling",
+      "name": "Cycling Gloves",
+      "slug": "cycling-gloves",
+      "expectedFilename": "cycling/cycling-gloves.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-cycling-bicycle-water-bottle",
+      "category": "Sports",
+      "groupName": "Cycling",
+      "name": "Bicycle Water Bottle",
+      "slug": "bicycle-water-bottle",
+      "expectedFilename": "cycling/bicycle-water-bottle.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-cycling-bicycle-lights",
+      "category": "Sports",
+      "groupName": "Cycling",
+      "name": "Bicycle Lights",
+      "slug": "bicycle-lights",
+      "expectedFilename": "cycling/bicycle-lights.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-outdoor-sports-frisbee",
+      "category": "Sports",
+      "groupName": "Outdoor Sports",
+      "name": "Frisbee",
+      "slug": "frisbee",
+      "expectedFilename": "outdoor-sports/frisbee.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-outdoor-sports-sports-whistle",
+      "category": "Sports",
+      "groupName": "Outdoor Sports",
+      "name": "Sports Whistle",
+      "slug": "sports-whistle",
+      "expectedFilename": "outdoor-sports/sports-whistle.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "sports-outdoor-sports-agility-ladder",
+      "category": "Sports",
+      "groupName": "Outdoor Sports",
+      "name": "Agility Ladder",
+      "slug": "agility-ladder",
+      "expectedFilename": "outdoor-sports/agility-ladder.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-mens-footwear-mens-loafers",
+      "category": "Footwear",
+      "groupName": "Men's Footwear",
+      "name": "Men's Loafers",
+      "slug": "mens-loafers",
+      "expectedFilename": "mens-footwear/mens-loafers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-mens-footwear-mens-slippers",
+      "category": "Footwear",
+      "groupName": "Men's Footwear",
+      "name": "Men's Slippers",
+      "slug": "mens-slippers",
+      "expectedFilename": "mens-footwear/mens-slippers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-mens-footwear-mens-sports-shoes",
+      "category": "Footwear",
+      "groupName": "Men's Footwear",
+      "name": "Men's Sports Shoes",
+      "slug": "mens-sports-shoes",
+      "expectedFilename": "mens-footwear/mens-sports-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-mens-footwear-mens-boots",
+      "category": "Footwear",
+      "groupName": "Men's Footwear",
+      "name": "Men's Boots",
+      "slug": "mens-boots",
+      "expectedFilename": "mens-footwear/mens-boots.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-womens-footwear-womens-sandals",
+      "category": "Footwear",
+      "groupName": "Women's Footwear",
+      "name": "Women's Sandals",
+      "slug": "womens-sandals",
+      "expectedFilename": "womens-footwear/womens-sandals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-womens-footwear-womens-wedges",
+      "category": "Footwear",
+      "groupName": "Women's Footwear",
+      "name": "Women's Wedges",
+      "slug": "womens-wedges",
+      "expectedFilename": "womens-footwear/womens-wedges.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-womens-footwear-womens-bellies",
+      "category": "Footwear",
+      "groupName": "Women's Footwear",
+      "name": "Women's Bellies",
+      "slug": "womens-bellies",
+      "expectedFilename": "womens-footwear/womens-bellies.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-womens-footwear-womens-boots",
+      "category": "Footwear",
+      "groupName": "Women's Footwear",
+      "name": "Women's Boots",
+      "slug": "womens-boots",
+      "expectedFilename": "womens-footwear/womens-boots.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-womens-footwear-womens-slippers",
+      "category": "Footwear",
+      "groupName": "Women's Footwear",
+      "name": "Women's Slippers",
+      "slug": "womens-slippers",
+      "expectedFilename": "womens-footwear/womens-slippers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-boys-footwear-boys-school-shoes",
+      "category": "Footwear",
+      "groupName": "Boys' Footwear",
+      "name": "Boys' School Shoes",
+      "slug": "boys-school-shoes",
+      "expectedFilename": "boys-footwear/boys-school-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-boys-footwear-boys-casual-shoes",
+      "category": "Footwear",
+      "groupName": "Boys' Footwear",
+      "name": "Boys' Casual Shoes",
+      "slug": "boys-casual-shoes",
+      "expectedFilename": "boys-footwear/boys-casual-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-boys-footwear-boys-sports-shoes",
+      "category": "Footwear",
+      "groupName": "Boys' Footwear",
+      "name": "Boys' Sports Shoes",
+      "slug": "boys-sports-shoes",
+      "expectedFilename": "boys-footwear/boys-sports-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-boys-footwear-boys-sandals",
+      "category": "Footwear",
+      "groupName": "Boys' Footwear",
+      "name": "Boys' Sandals",
+      "slug": "boys-sandals",
+      "expectedFilename": "boys-footwear/boys-sandals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-boys-footwear-boys-slippers",
+      "category": "Footwear",
+      "groupName": "Boys' Footwear",
+      "name": "Boys' Slippers",
+      "slug": "boys-slippers",
+      "expectedFilename": "boys-footwear/boys-slippers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-girls-footwear-girls-school-shoes",
+      "category": "Footwear",
+      "groupName": "Girls' Footwear",
+      "name": "Girls' School Shoes",
+      "slug": "girls-school-shoes",
+      "expectedFilename": "girls-footwear/girls-school-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-girls-footwear-girls-party-shoes",
+      "category": "Footwear",
+      "groupName": "Girls' Footwear",
+      "name": "Girls' Party Shoes",
+      "slug": "girls-party-shoes",
+      "expectedFilename": "girls-footwear/girls-party-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-girls-footwear-girls-sneakers",
+      "category": "Footwear",
+      "groupName": "Girls' Footwear",
+      "name": "Girls' Sneakers",
+      "slug": "girls-sneakers",
+      "expectedFilename": "girls-footwear/girls-sneakers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-girls-footwear-girls-sandals",
+      "category": "Footwear",
+      "groupName": "Girls' Footwear",
+      "name": "Girls' Sandals",
+      "slug": "girls-sandals",
+      "expectedFilename": "girls-footwear/girls-sandals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-girls-footwear-girls-bellies",
+      "category": "Footwear",
+      "groupName": "Girls' Footwear",
+      "name": "Girls' Bellies",
+      "slug": "girls-bellies",
+      "expectedFilename": "girls-footwear/girls-bellies.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-baby-footwear-baby-booties",
+      "category": "Footwear",
+      "groupName": "Baby Footwear",
+      "name": "Baby Booties",
+      "slug": "baby-booties",
+      "expectedFilename": "baby-footwear/baby-booties.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-baby-footwear-baby-soft-sole-shoes",
+      "category": "Footwear",
+      "groupName": "Baby Footwear",
+      "name": "Baby Soft Sole Shoes",
+      "slug": "baby-soft-sole-shoes",
+      "expectedFilename": "baby-footwear/baby-soft-sole-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-baby-footwear-baby-pre-walker-shoes",
+      "category": "Footwear",
+      "groupName": "Baby Footwear",
+      "name": "Baby Pre-Walker Shoes",
+      "slug": "baby-pre-walker-shoes",
+      "expectedFilename": "baby-footwear/baby-pre-walker-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-baby-footwear-baby-sandals",
+      "category": "Footwear",
+      "groupName": "Baby Footwear",
+      "name": "Baby Sandals",
+      "slug": "baby-sandals",
+      "expectedFilename": "baby-footwear/baby-sandals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-sports-footwear-running-shoes",
+      "category": "Footwear",
+      "groupName": "Sports & Athletic Footwear",
+      "name": "Running Shoes",
+      "slug": "running-shoes",
+      "expectedFilename": "sports-footwear/running-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-sports-footwear-training-shoes",
+      "category": "Footwear",
+      "groupName": "Sports & Athletic Footwear",
+      "name": "Training Shoes",
+      "slug": "training-shoes",
+      "expectedFilename": "sports-footwear/training-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-sports-footwear-football-shoes",
+      "category": "Footwear",
+      "groupName": "Sports & Athletic Footwear",
+      "name": "Football Shoes",
+      "slug": "football-shoes",
+      "expectedFilename": "sports-footwear/football-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-sports-footwear-basketball-shoes",
+      "category": "Footwear",
+      "groupName": "Sports & Athletic Footwear",
+      "name": "Basketball Shoes",
+      "slug": "basketball-shoes",
+      "expectedFilename": "sports-footwear/basketball-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-sports-footwear-trekking-shoes",
+      "category": "Footwear",
+      "groupName": "Sports & Athletic Footwear",
+      "name": "Trekking Shoes",
+      "slug": "trekking-shoes",
+      "expectedFilename": "sports-footwear/trekking-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-traditional-footwear-kolhapuri-chappals",
+      "category": "Footwear",
+      "groupName": "Traditional Footwear",
+      "name": "Kolhapuri Chappals",
+      "slug": "kolhapuri-chappals",
+      "expectedFilename": "traditional-footwear/kolhapuri-chappals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-traditional-footwear-juttis",
+      "category": "Footwear",
+      "groupName": "Traditional Footwear",
+      "name": "Juttis",
+      "slug": "juttis",
+      "expectedFilename": "traditional-footwear/juttis.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-traditional-footwear-mojaris",
+      "category": "Footwear",
+      "groupName": "Traditional Footwear",
+      "name": "Mojaris",
+      "slug": "mojaris",
+      "expectedFilename": "traditional-footwear/mojaris.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-traditional-footwear-ethnic-sandals",
+      "category": "Footwear",
+      "groupName": "Traditional Footwear",
+      "name": "Ethnic Sandals",
+      "slug": "ethnic-sandals",
+      "expectedFilename": "traditional-footwear/ethnic-sandals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "footwear-traditional-footwear-traditional-slippers",
+      "category": "Footwear",
+      "groupName": "Traditional Footwear",
+      "name": "Traditional Slippers",
+      "slug": "traditional-slippers",
+      "expectedFilename": "traditional-footwear/traditional-slippers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-7",
+      "category": "Teenagers",
+      "groupName": "Teenage Boys' Fashion",
+      "name": "Boys' Joggers",
+      "slug": "boys-joggers",
+      "expectedFilename": "teenagers/boys-fashion/boys-joggers.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-10",
+      "category": "Teenagers",
+      "groupName": "Teenage Girls' Fashion",
+      "name": "Girls' Jeans",
+      "slug": "girls-jeans",
+      "expectedFilename": "teenagers/girls-fashion/girls-jeans.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-16",
+      "category": "Teenagers",
+      "groupName": "Footwear",
+      "name": "School Shoes",
+      "slug": "school-shoes",
+      "expectedFilename": "teenagers/footwear/school-shoes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-23",
+      "category": "Teenagers",
+      "groupName": "School & College Essentials",
+      "name": "Pencil Pouches",
+      "slug": "pencil-pouches",
+      "expectedFilename": "teenagers/school-essentials/pencil-pouches.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-39",
+      "category": "Teenagers",
+      "groupName": "Personal Care",
+      "name": "Deodorant",
+      "slug": "deodorant",
+      "expectedFilename": "teenagers/personal-care/deodorant.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-50",
+      "category": "Teenagers",
+      "groupName": "Sports & Fitness",
+      "name": "Basketball",
+      "slug": "basketball",
+      "expectedFilename": "teenagers/sports-fitness/basketball.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-53",
+      "category": "Teenagers",
+      "groupName": "Room & Lifestyle",
+      "name": "Study Lamp",
+      "slug": "study-lamp",
+      "expectedFilename": "teenagers/room-lifestyle/study-lamp.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-54",
+      "category": "Teenagers",
+      "groupName": "Room & Lifestyle",
+      "name": "Alarm Clock",
+      "slug": "alarm-clock",
+      "expectedFilename": "teenagers/room-lifestyle/alarm-clock.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-56",
+      "category": "Teenagers",
+      "groupName": "Room & Lifestyle",
+      "name": "Wall Decor",
+      "slug": "wall-decor",
+      "expectedFilename": "teenagers/room-lifestyle/wall-decor.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-57",
+      "category": "Teenagers",
+      "groupName": "Room & Lifestyle",
+      "name": "Cushions",
+      "slug": "cushions",
+      "expectedFilename": "teenagers/room-lifestyle/cushions.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-58",
+      "category": "Teenagers",
+      "groupName": "Room & Lifestyle",
+      "name": "Storage Boxes",
+      "slug": "storage-boxes",
+      "expectedFilename": "teenagers/room-lifestyle/storage-boxes.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-59",
+      "category": "Teenagers",
+      "groupName": "Hobbies & Creativity",
+      "name": "Sketchbooks",
+      "slug": "sketchbooks",
+      "expectedFilename": "teenagers/hobbies-creativity/sketchbooks.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-62",
+      "category": "Teenagers",
+      "groupName": "Hobbies & Creativity",
+      "name": "Journals",
+      "slug": "journals",
+      "expectedFilename": "teenagers/hobbies-creativity/journals.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-63",
+      "category": "Teenagers",
+      "groupName": "Hobbies & Creativity",
+      "name": "DIY Craft Kits",
+      "slug": "diy-craft-kits",
+      "expectedFilename": "teenagers/hobbies-creativity/diy-craft-kits.jpg",
+      "imageStatus": "quota_pending"
+    },
+    {
+      "id": "teen-col-64",
+      "category": "Teenagers",
+      "groupName": "Hobbies & Creativity",
+      "name": "Puzzles",
+      "slug": "puzzles",
+      "expectedFilename": "teenagers/hobbies-creativity/puzzles.jpg",
+      "imageStatus": "quota_pending"
+    }
+  ],
+  "storageBucketsConfigured": false,
+  "gridfsImagesCount": 0
+}
